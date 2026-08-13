@@ -9,3 +9,5 @@ feature #3
 
 Dealing with some things
 Dealing with another thing
+
+Adding new line on an origin side
